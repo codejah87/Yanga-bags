@@ -301,7 +301,7 @@ nav a:hover::after{
 }
 .box{
     width: 300px;
-    background:rgb(197, 175, 224);
+    background:red;
     text-align: center;
 }
 
